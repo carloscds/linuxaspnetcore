@@ -1,0 +1,9 @@
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\bin\Release\netcoreapp1.0\ExemploLinux.deps.json
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\bin\Release\netcoreapp1.0\ExemploLinux.runtimeconfig.json
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\bin\Release\netcoreapp1.0\ExemploLinux.runtimeconfig.dev.json
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\bin\Release\netcoreapp1.0\ExemploLinux.dll
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\bin\Release\netcoreapp1.0\ExemploLinux.pdb
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\obj\Release\netcoreapp1.0\ExemploLinux.csprojResolveAssemblyReference.cache
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\obj\Release\netcoreapp1.0\ExemploLinux.AssemblyInfo.cs
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\obj\Release\netcoreapp1.0\ExemploLinux.dll
+C:\Temp\core1\linuxaspnetcore\ExemploLinux\ExemploLinux\obj\Release\netcoreapp1.0\ExemploLinux.pdb
