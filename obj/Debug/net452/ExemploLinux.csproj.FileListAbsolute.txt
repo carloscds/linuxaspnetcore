@@ -1,8 +1,4 @@
-C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.exe.config
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.deps.json
-C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.runtimeconfig.json
-C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.runtimeconfig.dev.json
-C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.exe
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.pdb
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\libuv.dll
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\Microsoft.ApplicationInsights.dll
@@ -95,7 +91,8 @@ C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\System.Reflection.Metadata.dll
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\System.Text.Encodings.Web.dll
 C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\System.Threading.Tasks.Extensions.dll
-C:\Temp\core1\linuxaspnetcore\obj\Debug\net452\ExemploLinux.csproj.ExemploLinux.exe.config
 C:\Temp\core1\linuxaspnetcore\obj\Debug\net452\ExemploLinux.AssemblyInfo.cs
-C:\Temp\core1\linuxaspnetcore\obj\Debug\net452\ExemploLinux.exe
 C:\Temp\core1\linuxaspnetcore\obj\Debug\net452\ExemploLinux.pdb
+C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.dll.config
+C:\Temp\core1\linuxaspnetcore\bin\Debug\net452\ExemploLinux.dll
+C:\Temp\core1\linuxaspnetcore\obj\Debug\net452\ExemploLinux.dll
